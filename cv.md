@@ -45,8 +45,17 @@ My code for example
 
 ## Experience
 
-For the graduation project, I made a website on WordPress, a topic was drawn for it in Adobe Photoshop which I subsequently made up and put on WordPress, also for this project a form for recording clients and feedback on php was made, the form took several parameters and sent them to mail. Unfortunately, there is no way to show the source code, only screenshots remain.
+For the graduation project, I made a **website** on **WordPress**, a topic was drawn for it in **Adobe Photoshop** which I subsequently made up and put on **WordPress**, also for this project a **form for recording** clients and **feedback** on **php** was made, the form took several parameters and sent them to mail. Unfortunately, there is no way to show the source code, only screenshots remain.
 
 ---
 
+## Education
+
+Education form Full-time, Degree information Student (bachelor), 4 year, Graduation year 2017, Russian University of Cooperation. Mytishchi, Moscow Region. **Information Systems and Technologies**
+
+Certificate **"Light English"** level A2
+
+Visited repeatedly meetup **"Epam miniq Vitebsk"** and **"Tech Meetup. Vitebsk"**
+
+---
 
