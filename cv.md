@@ -59,3 +59,8 @@ Visited repeatedly meetup **"Epam miniq Vitebsk"** and **"Tech Meetup. Vitebsk"*
 
 ---
 
+## English 
+
+I graduated from **English** courses **"Light English Vitebsk"** and received a certificate level A2. Now I continue to improve knowledge on my own.
+
+---
