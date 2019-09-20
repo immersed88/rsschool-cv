@@ -31,4 +31,10 @@ It is very important for me to become a **developer**. I really like to learn ne
 - CMS
    - WordPress
    - Open Card
+- Adobe Photoshop
+- Adobe Illustrator
+- Cinema 4d
+
+---
+
 
